@@ -95,18 +95,18 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![plot1] https://github.com/curtiskam/Exploratory-Data-Analysis/edit/master/unnamed-chunk-2.png
+![plot1] https://github.com/curtiskam/Exploratory-Data-Analysis/unnamed-chunk-2.png
 
 
 ### Plot 2
 
-![plot2] https://github.com/curtiskam/Exploratory-Data-Analysis/edit/master/unnamed-chunk-3.png
+![plot2] https://github.com/curtiskam/Exploratory-Data-Analysis/unnamed-chunk-3.png
 
 
 ### Plot 3
 
  
-![plot3] https://github.com/curtiskam/Exploratory-Data-Analysis/edit/master/unnamed-chunk-4.png
+![plot3] https://github.com/curtiskam/Exploratory-Data-Analysis/unnamed-chunk-4.png
 
 ### Plot 4
 
